@@ -1,2 +1,0 @@
-# git598-setup
-## Author: Katie Helenthal
